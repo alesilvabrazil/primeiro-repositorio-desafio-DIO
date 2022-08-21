@@ -1,4 +1,0 @@
-Aqui um ótimo tutorial sobre Github:
-Link: https://dev.to/womakerscode/tutorial-git-adicionando-arquivos-no-git-3a0o#:~:text=Caso%20queira%20adicionar%20todos%20os,arquivos%20de%20uma%20determinada%20extens%C3%A3o.&text=supondo%20que%20a%20extens%C3%A3o%20desejada%20seja%20txt.
-
-
